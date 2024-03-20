@@ -1,0 +1,117 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "CurtisMehMan",
+      "uniqueId": "72bf120d-a9a5-4540-974e-9aee389cde01"
+    },
+    "time": 1710130494046,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/dtNzPoklKU"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CurtisMehMan",
+      "uniqueId": "72bf120d-a9a5-4540-974e-9aee389cde01"
+    },
+    "time": 1709969820028,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/05lp116MwM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CurtisMehMan",
+      "uniqueId": "72bf120d-a9a5-4540-974e-9aee389cde01"
+    },
+    "time": 1709944820969,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DFC1iZdA6m"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CurtisMehMan",
+      "uniqueId": "72bf120d-a9a5-4540-974e-9aee389cde01"
+    },
+    "time": 1709942137845,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cw6pjdgyzi"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CurtisMehMan",
+      "uniqueId": "72bf120d-a9a5-4540-974e-9aee389cde01"
+    },
+    "time": 1709941930678,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Rs5xjQgFTi"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CurtisMehMan",
+      "uniqueId": "72bf120d-a9a5-4540-974e-9aee389cde01"
+    },
+    "time": 1709941617769,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/6t97ZloEIR"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1709937895312,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/5qeSB5KWft"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CurtisMehMan",
+      "uniqueId": "72bf120d-a9a5-4540-974e-9aee389cde01"
+    },
+    "time": 1709936983409,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wRw7GbDqYP"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1709906454501,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/D968jTi0Dk"
+    }
+  }
+]
