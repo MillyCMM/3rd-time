@@ -6,9 +6,9 @@
 	compassRange = 10000
 	#Defines if the structure compass should locate unexplored structures [default: false]
 	locateUnexplored = false
+	#Defines if the structure compass should locate structures asynchronously [default: false]
+	locateAsync = false
 	#Defines which structures can't be searched with the Structure Compass
 	#(Supports wildcard *, Example: 'minecraft:*' will blacklist anything in the minecraft domain)
 	structureBlacklist = [""]
-	#Defines if the structure compass should locate structures asynchronously [default: false]
-	locateAsync = false
 
